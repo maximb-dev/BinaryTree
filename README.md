@@ -13,7 +13,7 @@ A simple and modern C++ implementation of a self-balancing binary search tree (A
 
 # Example
 
-    #include "binary_tree_api.h"
+    #include "binary_tree.h"
     #include <iostream>
     
     int main() {
